@@ -1,8 +1,3 @@
-#Greetz : Bomberman(Leader)
-#Author : B3mB4m
-#Concat : Do not disturb - Bomberman
-
-
 #Netcat openbsd version (which is default installed in ubuntu) have
 not "-e" option.
 #So if you are trying to test on ubuntu(like me) you must change
